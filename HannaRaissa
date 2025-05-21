@@ -1,0 +1,5 @@
+git add Newton-Raphson.js
+git commit-m "Método de Newton Raphson"
+git branch-M Newton-Raphson
+git remote add origin
+git push-uoriginNewton-Raphson
